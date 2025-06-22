@@ -1,7 +1,0 @@
-{
-    "name": "sipadu/sipadu-app",
-    "type": "project",
-    "require": {
-        "codeigniter4/framework": "^4"
-    }
-}
